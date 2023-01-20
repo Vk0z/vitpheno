@@ -13,12 +13,12 @@ The outputs are the stations and 4km buffers around them for all the relevant ob
 One in WGS84/UTM zone 32N and another in WGS 84.
 
 **WGS84/UTM zone 32N file names:**
-- PEP725_stations.geojson
-- PEP725_buffers.geojson
+  - PEP725_stations.geojson
+  - PEP725_buffers.geojson
 
 **WGS84/UTM zone 32N file names:**
-- PEP725_stations_WGS84.geojson
-- PEP725_buffers_WGS84.geojson
+  - PEP725_stations_WGS84.geojson
+  - PEP725_buffers_WGS84.geojson
 
 
 
