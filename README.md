@@ -25,7 +25,7 @@ One in WGS84/UTM zone 32N and another in WGS 84.
 
 Currently it works with one image. The test can be run with the Sentinel-2 Image **S2A_MSIL2A_20170420T103021_N0204_R108_T32UNB_20170420T103454**
 
-In order to extract images based on a buffer of 4km around a PEP725 station, these notebooks need to be excecuted in order. The input of the first file is the PEP725 file with all the observations. The third file needs the Sentinel-2 .SAFE folder as an input.
+In order to extract images based on a buffer of 4km around a PEP725 station, these notebooks need to be excecuted in order. The input of the first file is the PEP725 *.csv* with all the observations. The third file needs the Sentinel-2 .SAFE folder as an input.
 1. *PEP_725_preprocessing*
 2. *PEP_725_2017*
 3. *sentinel2_patch_extraction*
